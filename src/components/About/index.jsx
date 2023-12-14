@@ -10,8 +10,8 @@ export default function About() {
                 <h3 className="about-title">ABOUT</h3>
                 <div className="main-about">
                     <p>Hello, my name is Weston Kostura. I am a 23-year-old software developer. I am a recent graduate from the Arizona State University Full Stack Bootcamp.</p>
-                    <p>I enjoy spending my free time </p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem perferendis repellat neque ducimus quos alias nisi hic expedita iste, tempore delectus tempora accusantium qui, voluptatum ad est repudiandae, consectetur culpa.</p>
+                    <p>In my free time, I enjoy hanging out with friends, exploring the outdoors, and snowboarding when the weather permits. I currently work at an outdoor venue bar, which allows me to combine my love for music and the outdoors.</p>
+                    <p>Working in a fast-paced environment like a live music venue has helped me develop strong problem-solving skills and the ability to think on my feet, skills that I believe are also valuable in software development.</p>
                 </div>
             </div>
             <img src={myImage} alt="About" className="about-image" />

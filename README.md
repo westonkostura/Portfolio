@@ -14,7 +14,7 @@ No steps are required to install this project.
 
 ## Deployed Link
 
-https://westonkostura.github.io/
+https://westonkostura.github.io/WestonKosturaPortfolio/
 
 ## Usage
 Home Page

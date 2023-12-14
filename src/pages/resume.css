@@ -1,0 +1,11 @@
+
+.resume-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: silver;
+}
+
+.react-pdf__Page__textContent {
+    display: none;
+}

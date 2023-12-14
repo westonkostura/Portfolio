@@ -1,0 +1,7 @@
+.home-header {
+    text-align: center;
+    font-size: 10rem;
+    background: linear-gradient(to right, #00d2ff, #041a38);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

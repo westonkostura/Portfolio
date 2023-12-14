@@ -12,6 +12,10 @@ This is a professional portfolio that showcases my work as a full stack web deve
 
 No steps are required to install this project.
 
+## Deployed Link
+
+https://westonkostura.github.io/
+
 ## Usage
 Home Page
 ![Alt text](<src/assets/Screenshot 2023-12-13 at 11.12.00 PM.png>)
